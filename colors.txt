@@ -1,0 +1,17 @@
+background
+#001F3F
+
+text 
+#f5f5f5
+
+buttons 
+#f5f5f5
+
+hover
+#6da9d1
+
+Secondary Color: Gray
+
+Text: White (#ffffff)
+Background: Light Gray (#f5f5f5)
+Buttons: Charcoal Gray (#333333)
